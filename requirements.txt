@@ -6,14 +6,14 @@ pyrofork==2.3.45
 TgCrypto
 dnspython
 aiohttp
-telethon
+telethon==1.39.0
 psutil
-motor
-telethon
+motor==2.5.1
 pymongo[srv]==3.12.3
 fuzzywuzzy
-git+https://github.com/cinemagoer/cinemagoer
 rapidfuzz
+SQLAlchemy<2.0
+cinemagoer==2023.5.1
 # ====================== 💘❤👩‍💻====================================
 #    ==> P O W E R E D - B Y - 🤞 L A Z Y D E V E L O P E  R        |
 # ==================================================================
